@@ -1,5 +1,23 @@
 [
   {
+    "name": "d-photos.de",
+    "url": "https://www.d-photos.de",
+    "icon": "https://icons.duckduckgo.com/ip3/www.d-photos.de.ico",
+    "slug": "d-photos-de",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "fs05.de",
     "url": "https://www.fs05.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fs05.de.ico",
@@ -33,6 +51,24 @@
     "timeWeek": 884,
     "timeMonth": 884,
     "timeYear": 884,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "stefanpotthast.de",
+    "url": "https://www.stefanpotthast.de",
+    "icon": "https://icons.duckduckgo.com/ip3/www.stefanpotthast.de.ico",
+    "slug": "stefanpotthast-de",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2542,
+    "timeDay": 2542,
+    "timeWeek": 2542,
+    "timeMonth": 2542,
+    "timeYear": 2542,
     "dailyMinutesDown": {}
   }
 ]
