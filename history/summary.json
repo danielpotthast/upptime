@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.d-photos.de.ico",
     "slug": "d-photos-de",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.62%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 910,
     "timeDay": 937,
     "timeWeek": 910,
     "timeMonth": 910,
     "timeYear": 910,
-    "dailyMinutesDown": {
-      "2023-02-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "fs05.de",
@@ -61,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.stefanpotthast.de.ico",
     "slug": "stefanpotthast-de",
     "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2283,
     "timeDay": 2188,
     "timeWeek": 2283,
     "timeMonth": 2283,
     "timeYear": 2283,
-    "dailyMinutesDown": {
-      "2023-02-04": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
