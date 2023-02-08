@@ -22,19 +22,19 @@
     "url": "https://www.fs05.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fs05.de.ico",
     "slug": "fs05-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 833,
-    "timeDay": 837,
-    "timeWeek": 833,
-    "timeMonth": 833,
-    "timeYear": 833,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 818,
+    "timeDay": 775,
+    "timeWeek": 818,
+    "timeMonth": 818,
+    "timeYear": 818,
     "dailyMinutesDown": {
-      "2023-02-08": 0
+      "2023-02-08": 9
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.fs05.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/www.fs05.wiki.ico",
     "slug": "fs05-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1050,
-    "timeDay": 1249,
-    "timeWeek": 1050,
-    "timeMonth": 1050,
-    "timeYear": 1050,
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 1022,
+    "timeDay": 1034,
+    "timeWeek": 1022,
+    "timeMonth": 1022,
+    "timeYear": 1022,
     "dailyMinutesDown": {
-      "2023-02-08": 0
+      "2023-02-08": 9
     }
   },
   {
