@@ -22,9 +22,9 @@
     "url": "https://www.fs05.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fs05.de.ico",
     "slug": "fs05-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +33,18 @@
     "timeWeek": 1101,
     "timeMonth": 959,
     "timeYear": 959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-16": 0
+    }
   },
   {
     "name": "fs05.wiki",
     "url": "https://www.fs05.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/www.fs05.wiki.ico",
     "slug": "fs05-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 1644,
     "timeMonth": 1293,
     "timeYear": 1293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-16": 0
+    }
   },
   {
     "name": "stefanpotthast.de",
