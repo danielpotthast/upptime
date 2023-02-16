@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 981,
-    "timeWeek": 1088,
-    "timeMonth": 1016,
-    "timeYear": 1016,
+    "time": 1027,
+    "timeDay": 1194,
+    "timeWeek": 1101,
+    "timeMonth": 1027,
+    "timeYear": 1027,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://www.fs05.de",
     "icon": "https://icons.duckduckgo.com/ip3/www.fs05.de.ico",
     "slug": "fs05-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 959,
-    "timeDay": 1035,
-    "timeWeek": 1101,
-    "timeMonth": 959,
-    "timeYear": 959,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 957,
+    "timeDay": 931,
+    "timeWeek": 1079,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {
-      "2023-02-16": 0
+      "2023-02-16": 16
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://www.fs05.wiki",
     "icon": "https://icons.duckduckgo.com/ip3/www.fs05.wiki.ico",
     "slug": "fs05-wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1293,
-    "timeDay": 1169,
-    "timeWeek": 1644,
-    "timeMonth": 1293,
-    "timeYear": 1293,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1294,
+    "timeDay": 1311,
+    "timeWeek": 1602,
+    "timeMonth": 1294,
+    "timeYear": 1294,
     "dailyMinutesDown": {
-      "2023-02-16": 0
+      "2023-02-16": 16
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2638,
-    "timeDay": 2141,
-    "timeWeek": 3021,
-    "timeMonth": 2638,
-    "timeYear": 2638,
+    "time": 2647,
+    "timeDay": 2791,
+    "timeWeek": 2993,
+    "timeMonth": 2647,
+    "timeYear": 2647,
     "dailyMinutesDown": {}
   }
 ]
